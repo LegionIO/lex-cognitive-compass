@@ -11,8 +11,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Cognitive compass LEX — internal directional sense for decision-making'
   spec.description   = 'Maps cardinal directions to value axes (truth/utility/beauty/safety), ' \
-                        'tracks magnetic declination from cognitive biases, and provides true ' \
-                        'north calibration for aligned decision-making.'
+                       'tracks magnetic declination from cognitive biases, and provides true ' \
+                       'north calibration for aligned decision-making.'
   spec.homepage      = 'https://github.com/LegionIO/lex-cognitive-compass'
 
   spec.required_ruby_version = '>= 3.4'
